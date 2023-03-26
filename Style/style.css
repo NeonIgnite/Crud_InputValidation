@@ -1,0 +1,13 @@
+/* body{
+    background-image: url('Images/Space.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ */
+.show{
+    display: none;
+    background-color: green;
+}
+.error{
+    color:red;
+}
